@@ -2,7 +2,7 @@
   "Records": [
     {
       "Sns": {
-        "Message": "{\"AlarmName\": \"TESTANDO\", \"OldStateValue\": \"ALARM\", \"NewStateValue\": \"OK\", \"NewStateReason\": \"just because\"}"
+        "Message": "{\"AlarmName\": \"TEST\", \"OldStateValue\": \"ALARM\", \"NewStateValue\": \"OK\", \"NewStateReason\": \"just because\"}"
       }
     }
   ]
